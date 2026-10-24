@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+```markdown<br>## What I’m up to<br><br><table><br>  <tr><br>    <td width="50%" valign="top"><br>      <h3>Building</h3><br>      <ul><br>        <li><strong>Drishti</strong> — assistive technology with camera-based sensing, voice commands, and spoken AI summaries.</li><br>        <li><strong>SecureGuard</strong> — exploring governance and security for connected IoT systems.</li><br>        <li>Student projects that turn coursework into working software and hardware prototypes.</li><br>      </ul><br>    </td><br>    <td width="50%" valign="top"><br>      <h3>Looking to collaborate on</h3><br>      <ul><br>        <li>Assistive tools that make everyday tasks more accessible.</li><br>        <li>Practical cybersecurity and IoT projects.</li><br>        <li>Useful apps with thoughtful, intuitive interfaces.</li><br>        <li>Projects where software meets hardware.</li><br>      </ul><br>    </td><br>  </tr><br>  <tr><br>    <td width="50%" valign="top"><br>      <h3>Always learning</h3><br>      <ul><br>        <li>Data structures and algorithms.</li><br>        <li>Arduino and embedded systems.</li><br>        <li>Voice interfaces and real-time app behavior.</li><br>        <li>How to make prototypes more reliable on real devices.</li><br>      </ul><br>    </td><br>    <td width="50%" valign="top"><br>      <h3>Ask me about</h3><br>      <ul><br>        <li>Building camera-based assistive experiences.</li><br>        <li>Voice command flows and speech feedback.</li><br>        <li>Early-stage IoT security ideas.</li><br>        <li>Taking a project from a rough idea to a working demo.</li><br>      </ul><br>    </td><br>  </tr><br></table><br><br>### Open to a hand with<br><br>- Testing voice and accessibility features across devices.<br>- Reviewing approaches to IoT security and system design.<br>- Improving project documentation and making builds easier to reproduce.<br>- Feedback on making prototypes simpler and more useful.<br><br>### A little about how I build<br><br>I like projects that connect software to the real world: a camera that helps someone understand their surroundings, an IoT system that needs better safeguards, or an Arduino prototype that brings an idea to life.<br>```
 
-<!--
-**shreyasdigule/shreyasdigule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyasdigule/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyas.professional@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shreyasdigule&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shreyasdigule&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyasdigule&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shreyasdigule&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=shreyasdigule&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

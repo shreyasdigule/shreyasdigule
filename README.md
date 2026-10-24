@@ -1,5 +1,59 @@
-# 💫 About Me:
-```markdown<br>## What I’m up to<br><br><table><br>  <tr><br>    <td width="50%" valign="top"><br>      <h3>Building</h3><br>      <ul><br>        <li><strong>Drishti</strong> — assistive technology with camera-based sensing, voice commands, and spoken AI summaries.</li><br>        <li><strong>SecureGuard</strong> — exploring governance and security for connected IoT systems.</li><br>        <li>Student projects that turn coursework into working software and hardware prototypes.</li><br>      </ul><br>    </td><br>    <td width="50%" valign="top"><br>      <h3>Looking to collaborate on</h3><br>      <ul><br>        <li>Assistive tools that make everyday tasks more accessible.</li><br>        <li>Practical cybersecurity and IoT projects.</li><br>        <li>Useful apps with thoughtful, intuitive interfaces.</li><br>        <li>Projects where software meets hardware.</li><br>      </ul><br>    </td><br>  </tr><br>  <tr><br>    <td width="50%" valign="top"><br>      <h3>Always learning</h3><br>      <ul><br>        <li>Data structures and algorithms.</li><br>        <li>Arduino and embedded systems.</li><br>        <li>Voice interfaces and real-time app behavior.</li><br>        <li>How to make prototypes more reliable on real devices.</li><br>      </ul><br>    </td><br>    <td width="50%" valign="top"><br>      <h3>Ask me about</h3><br>      <ul><br>        <li>Building camera-based assistive experiences.</li><br>        <li>Voice command flows and speech feedback.</li><br>        <li>Early-stage IoT security ideas.</li><br>        <li>Taking a project from a rough idea to a working demo.</li><br>      </ul><br>    </td><br>  </tr><br></table><br><br>### Open to a hand with<br><br>- Testing voice and accessibility features across devices.<br>- Reviewing approaches to IoT security and system design.<br>- Improving project documentation and making builds easier to reproduce.<br>- Feedback on making prototypes simpler and more useful.<br><br>### A little about how I build<br><br>I like projects that connect software to the real world: a camera that helps someone understand their surroundings, an IoT system that needs better safeguards, or an Arduino prototype that brings an idea to life.<br>```
+<h1>About Me</h1>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Building</h3>
+      <ul>
+        <li><strong>Drishti</strong> — assistive technology with camera-based sensing, voice commands, and spoken AI summaries.</li>
+        <li><strong>SecureGuard</strong> — exploring governance and security for connected IoT systems.</li>
+        <li>Student projects that turn coursework into working software and hardware prototypes.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Looking to collaborate on</h3>
+      <ul>
+        <li>Assistive tools that make everyday tasks more accessible.</li>
+        <li>Practical cybersecurity and IoT projects.</li>
+        <li>Useful apps with thoughtful, intuitive interfaces.</li>
+        <li>Projects where software meets hardware.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Always learning</h3>
+      <ul>
+        <li>Data structures and algorithms.</li>
+        <li>Arduino and embedded systems.</li>
+        <li>Voice interfaces and real-time app behavior.</li>
+        <li>Making prototypes more reliable on real devices.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Ask me about</h3>
+      <ul>
+        <li>Building camera-based assistive experiences.</li>
+        <li>Voice command flows and speech feedback.</li>
+        <li>Early-stage IoT security ideas.</li>
+        <li>Taking a project from a rough idea to a working demo.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h3>Open to a hand with</h3>
+<ul>
+  <li>Testing voice and accessibility features across devices.</li>
+  <li>Reviewing approaches to IoT security and system design.</li>
+  <li>Improving project documentation and reproducible builds.</li>
+  <li>Feedback that makes prototypes simpler and more useful.</li>
+</ul>
+
+<blockquote>
+  <p>I like projects that connect software to the real world: a camera that helps someone understand their surroundings, an IoT system that needs better safeguards, or an Arduino prototype that brings an idea to life.</p>
+</blockquote>
+
 
 
 ## 🌐 Socials:

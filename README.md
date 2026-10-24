@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Building</h3>
+      <h3><font color="#2ea44f"><img src="https://img.shields.io/badge/Building-2ea44f?style=flat-square" alt="Building" /></font></h3>
       <ul>
         <li><strong>Drishti</strong> — assistive technology with camera-based sensing, voice commands, and spoken AI summaries.</li>
         <li><strong>SecureGuard</strong> — exploring governance and security for connected IoT systems.</li>
@@ -11,7 +11,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Looking to collaborate on</h3>
+      <h3><img src="https://img.shields.io/badge/Looking%20to%20collaborate%20on-2ea44f?style=flat-square" alt="Looking to collaborate on" /></h3>
       <ul>
         <li>Assistive tools that make everyday tasks more accessible.</li>
         <li>Practical cybersecurity and IoT projects.</li>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Always learning</h3>
+      <h3><img src="https://img.shields.io/badge/Always%20learning-2ea44f?style=flat-square" alt="Always learning" /></h3>
       <ul>
         <li>Data structures and algorithms.</li>
         <li>Arduino and embedded systems.</li>
@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Ask me about</h3>
+      <h3><img src="https://img.shields.io/badge/Ask%20me%20about-2ea44f?style=flat-square" alt="Ask me about" /></h3>
       <ul>
         <li>Building camera-based assistive experiences.</li>
         <li>Voice command flows and speech feedback.</li>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-<h3>Open to a hand with</h3>
+<h3><img src="https://img.shields.io/badge/Open%20to%20a%20hand%20with-2ea44f?style=flat-square" alt="Open to a hand with" /></h3>
 <ul>
   <li>Testing voice and accessibility features across devices.</li>
   <li>Reviewing approaches to IoT security and system design.</li>
